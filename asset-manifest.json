@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Random-Article-Button/static/css/main.e6b83666.chunk.css",
+    "main.js": "/Random-Article-Button/static/js/main.7be94ea6.chunk.js",
+    "main.js.map": "/Random-Article-Button/static/js/main.7be94ea6.chunk.js.map",
+    "runtime-main.js": "/Random-Article-Button/static/js/runtime-main.c3c61b21.js",
+    "runtime-main.js.map": "/Random-Article-Button/static/js/runtime-main.c3c61b21.js.map",
+    "static/js/2.ca698f8b.chunk.js": "/Random-Article-Button/static/js/2.ca698f8b.chunk.js",
+    "static/js/2.ca698f8b.chunk.js.map": "/Random-Article-Button/static/js/2.ca698f8b.chunk.js.map",
+    "index.html": "/Random-Article-Button/index.html",
+    "precache-manifest.e08b56816dd17386a1b2483ab4a1fa81.js": "/Random-Article-Button/precache-manifest.e08b56816dd17386a1b2483ab4a1fa81.js",
+    "service-worker.js": "/Random-Article-Button/service-worker.js",
+    "static/css/main.e6b83666.chunk.css.map": "/Random-Article-Button/static/css/main.e6b83666.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3c61b21.js",
+    "static/js/2.ca698f8b.chunk.js",
+    "static/css/main.e6b83666.chunk.css",
+    "static/js/main.7be94ea6.chunk.js"
+  ]
+}
