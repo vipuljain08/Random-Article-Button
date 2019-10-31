@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -19,4 +20,58 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+.home-header h1 {
+    font-size: 34px;
+    line-height: 49px;
+}
+
+.home-header .btn {    
+    padding: 1.3rem;
+    width: 350px;
+    color: #000000;
+    text-transform: uppercase;
+    border-radius: 59px 59px 59px 59px;
+    -moz-border-radius: 59px 59px 59px 59px;
+    -webkit-border-radius: 59px 59px 59px 59px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.home-header .btn:focus {
+    outline: 0 !important;
+    outline-color: #A75000;
+    box-shadow: none;
+    overflow: hidden;
+}
+
+.home-header .btn:hover {
+    color: white;
+}
+.article-title-link {
+    background: none;
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 1px solid black;
+}
+.article-title a {
+    color: #469A4C;
+}
+
+
+
+.article-title a:hover{
+    text-decoration: none;
+    color: #3e8243;
+
+}
+@media (max-width: 767px) {
+    .head-title {
+        max-width: 60% !important;
+    }
+    .home-header .btn {
+        width: 300px;
+    }
 }
