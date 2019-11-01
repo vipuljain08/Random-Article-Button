@@ -1,3 +1,22 @@
+# Random Article Website With React Hooks
+
+Random Article is a website that was built as a personal project. I used to an article database for it.  
+
+[Live Demo](https://bscodes.github.io/Random-Article-Button/)
+
+## Tools and Technologies
+
+- HTML
+- CSS
+- Bootstrap 4 
+- JavaScript (ES6)
+- React Hooks
+- Git
+- GitHub
+- NPM
+
+## Available Scripts
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
